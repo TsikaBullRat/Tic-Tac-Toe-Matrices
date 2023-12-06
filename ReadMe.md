@@ -32,3 +32,19 @@ I know and understand
 Freaking favicon.ico. Is something that has become a thorn in my side. So for 
 some weird reason using createReadStream method looks for favicon.ico, which 
 ofcourse doesn't exist in my project so. Simply route I am just gonna add it
+
+### Hold
+I'm puting the creation of a reloading live server on hold for now.
+
+## The site
+Plain and simple html, css, javascript the only reason I added node was for my own development.
+
+
+# `Note to self`
+## Continue updates on this project
+* Check more icons on google fonts
+* Check server refresh packages
+* Add package.json
+* Look into creating gitignore
+* Look at github pages and changing source file to public for launching
+* Please you ass read the read me before you just continue the project

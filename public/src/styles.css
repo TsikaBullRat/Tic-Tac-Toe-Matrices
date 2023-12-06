@@ -1,0 +1,22 @@
+:root{
+    --white: #fff;
+    --purple: rgb(72, 7, 152);
+    --grey: rgb(73, 59, 89);
+}
+
+/*My CSS*/
+/*Classes*/
+.center{
+    background: var(--purple);
+    border-radius: 50%;
+}
+
+/*Icons*/
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24,;
+  border-radius: 50%;
+}
