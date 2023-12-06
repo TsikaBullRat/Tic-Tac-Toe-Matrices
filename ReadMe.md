@@ -26,3 +26,9 @@ I started of with a simple design using deconstructed methods to import my
 necessary components. For the live server I had to figure out how to add an 
 automatic refresh. For the purpose of practicing I started building with concepts
 I know and understand
+
+#### `Error 1: `
+
+Freaking favicon.ico. Is something that has become a thorn in my side. So for 
+some weird reason using createReadStream method looks for favicon.ico, which 
+ofcourse doesn't exist in my project so. Simply route I am just gonna add it
